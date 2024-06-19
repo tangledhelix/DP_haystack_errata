@@ -1,0 +1,12 @@
+--- pg24721-images.ORIG.html	2024-06-10 12:55:52
++++ pg24721-images.NEW.html	2024-06-19 11:01:15
+@@ -110,6 +110,9 @@
+     font-size: smaller;
+     text-align: right
+     }
++.x-ebookmaker .pagenumber {
++    display: none;
++    }
+ .indent {
+     margin-left: 5em
+     }</style>
