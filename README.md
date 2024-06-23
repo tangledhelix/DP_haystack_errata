@@ -33,7 +33,7 @@ Operation Haystack, by Frank Herbert
         .x-ebookmaker .pagenumber { display: none; }
 
         Screenshots showing the problem in EPUB available here:
-        https://github.com/tangledhelix/DP_haystack_errata
+        https://github.com/tangledhelix/PG_errata_haystack
 
     Txt version (line 186), HTML version (line 416):
         she gasped as she opened his sole remaining eye, said
